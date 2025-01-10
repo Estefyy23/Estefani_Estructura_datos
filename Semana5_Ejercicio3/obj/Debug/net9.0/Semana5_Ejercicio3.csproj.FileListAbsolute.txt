@@ -1,0 +1,14 @@
+C:\Estefani\Semana5_Ejercicio3\bin\Debug\net9.0\Semana5_Ejercicio3.exe
+C:\Estefani\Semana5_Ejercicio3\bin\Debug\net9.0\Semana5_Ejercicio3.deps.json
+C:\Estefani\Semana5_Ejercicio3\bin\Debug\net9.0\Semana5_Ejercicio3.runtimeconfig.json
+C:\Estefani\Semana5_Ejercicio3\bin\Debug\net9.0\Semana5_Ejercicio3.dll
+C:\Estefani\Semana5_Ejercicio3\bin\Debug\net9.0\Semana5_Ejercicio3.pdb
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.AssemblyInfoInputs.cache
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.AssemblyInfo.cs
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.dll
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\refint\Semana5_Ejercicio3.dll
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.pdb
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\Semana5_Ejercicio3.genruntimeconfig.cache
+C:\Estefani\Semana5_Ejercicio3\obj\Debug\net9.0\ref\Semana5_Ejercicio3.dll
