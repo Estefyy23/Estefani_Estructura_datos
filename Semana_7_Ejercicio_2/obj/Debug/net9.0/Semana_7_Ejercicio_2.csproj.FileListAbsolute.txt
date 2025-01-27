@@ -1,0 +1,15 @@
+C:\Estefani\Semana_7_Ejercicio_2\bin\Debug\net9.0\Semana_7_Ejercicio_2.exe
+C:\Estefani\Semana_7_Ejercicio_2\bin\Debug\net9.0\Semana_7_Ejercicio_2.deps.json
+C:\Estefani\Semana_7_Ejercicio_2\bin\Debug\net9.0\Semana_7_Ejercicio_2.runtimeconfig.json
+C:\Estefani\Semana_7_Ejercicio_2\bin\Debug\net9.0\Semana_7_Ejercicio_2.dll
+C:\Estefani\Semana_7_Ejercicio_2\bin\Debug\net9.0\Semana_7_Ejercicio_2.pdb
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.AssemblyInfoInputs.cache
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.AssemblyInfo.cs
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.sourcelink.json
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.dll
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\refint\Semana_7_Ejercicio_2.dll
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.pdb
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\Semana_7_Ejercicio_2.genruntimeconfig.cache
+C:\Estefani\Semana_7_Ejercicio_2\obj\Debug\net9.0\ref\Semana_7_Ejercicio_2.dll
